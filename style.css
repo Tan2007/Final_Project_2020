@@ -1,0 +1,15 @@
+.topnav a{
+    float: left;
+    color: #ac2828;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Play', sans-serif;
+}
+
+
+.topnav{
+    overflow: hidden;
+    background-color: silver;
+}
